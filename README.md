@@ -2,9 +2,9 @@
 setups openSSH on termux
 
 # Install
-`pkg install git`
-`git clone https://github.com/kapitankuka2011/openssh-setup`
-`cd openssh-setup`
+`pkg install git`<br>
+`git clone https://github.com/kapitankuka2011/openssh-setup`<br>
+`cd openssh-setup`<br>
 `./setup.sh`<br>
 And thats it!
 
