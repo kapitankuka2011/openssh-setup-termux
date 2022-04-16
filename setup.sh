@@ -16,7 +16,7 @@ echo "By Kuba (Kuba#7283)"
 echo ""
 
 echo "Installing OpenSSH..."
-pkg install openssh &> /dev/null
+pkg install openssh
 sleep 0.3
 clear
 echo " 
