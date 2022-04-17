@@ -42,4 +42,5 @@ sleep 0.5
 sshd
 echo "Server installed!"
 echo "Server is running on port '8022'"
+echo "Now you can connect to the server from another phone, pc, laptop, anything that has ssh client wnd wifi"
 echo "To stop the server use 'pkill sshd', to start it again use 'sshd' "
